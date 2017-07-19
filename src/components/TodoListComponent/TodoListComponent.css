@@ -1,0 +1,21 @@
+.list
+{
+  width: 80%;
+  height: 75%;
+  margin:0 auto;
+  list-style-type: none;
+}
+.list li{
+  border-bottom: 1px solid purple;
+  cursor: pointer;
+  padding:4% 3%;
+  align-items: center;
+  transition: all ease 0.2s;
+}
+.list li:hover{
+  background: #dfdfdf;
+}
+.list li span{
+  text-align: right;
+  float: right;
+}

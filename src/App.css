@@ -1,0 +1,18 @@
+.App
+{
+  height: 80vh;
+  width:80%;
+  margin: 3% auto;
+  background: white;
+  border-top:5px solid purple;
+  font-family:sans-serif;
+  padding:1% 2%;
+  min-height: 668px;
+}
+.App h1
+{
+  color: purple;
+  text-align: center;
+  margin-bottom: 3%;
+  font-weight: lighter;
+}
